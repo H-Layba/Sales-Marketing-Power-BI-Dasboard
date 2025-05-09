@@ -31,7 +31,7 @@ The dashboard presents an analytical summary for the years **2022–2024**, focu
 3. Refresh the dataset (if connected to a live source).
 4. Interact with visuals to explore insights.
 
-## 📷 Screenshots
+## 📷 Preview
 
 
 
